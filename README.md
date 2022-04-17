@@ -1,5 +1,5 @@
 # norvig_autocorrect
-Test out implementation of Norvig autocorrect algorithm from aion
+Test out implementation of Norvig autocorrect algorithm
 
 From https://towardsdatascience.com/correcting-your-spelling-error-with-4-operations-50bcfd519bb8 and https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-spell_corrector.ipynb
 
